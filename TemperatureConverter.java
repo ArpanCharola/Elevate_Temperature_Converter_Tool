@@ -110,7 +110,7 @@ public class TemperatureConverter extends JFrame {
                 }
                 break;
         }
-        return value; // Shouldn't happen
+        return value; 
     }
 
     public static void main(String[] args) {
